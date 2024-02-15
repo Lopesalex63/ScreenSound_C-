@@ -1,0 +1,14 @@
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 2\Desafio Final\Desafio Final\Desafio Final\bin\Debug\net8.0\Desafio Final.exe
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 2\Desafio Final\Desafio Final\Desafio Final\bin\Debug\net8.0\Desafio Final.deps.json
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 2\Desafio Final\Desafio Final\Desafio Final\bin\Debug\net8.0\Desafio Final.runtimeconfig.json
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 2\Desafio Final\Desafio Final\Desafio Final\bin\Debug\net8.0\Desafio Final.dll
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 2\Desafio Final\Desafio Final\Desafio Final\bin\Debug\net8.0\Desafio Final.pdb
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 2\Desafio Final\Desafio Final\Desafio Final\obj\Debug\net8.0\Desafio Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 2\Desafio Final\Desafio Final\Desafio Final\obj\Debug\net8.0\Desafio Final.AssemblyInfoInputs.cache
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 2\Desafio Final\Desafio Final\Desafio Final\obj\Debug\net8.0\Desafio Final.AssemblyInfo.cs
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 2\Desafio Final\Desafio Final\Desafio Final\obj\Debug\net8.0\Desafio Final.csproj.CoreCompileInputs.cache
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 2\Desafio Final\Desafio Final\Desafio Final\obj\Debug\net8.0\Desafio Final.dll
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 2\Desafio Final\Desafio Final\Desafio Final\obj\Debug\net8.0\refint\Desafio Final.dll
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 2\Desafio Final\Desafio Final\Desafio Final\obj\Debug\net8.0\Desafio Final.pdb
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 2\Desafio Final\Desafio Final\Desafio Final\obj\Debug\net8.0\Desafio Final.genruntimeconfig.cache
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 2\Desafio Final\Desafio Final\Desafio Final\obj\Debug\net8.0\ref\Desafio Final.dll
